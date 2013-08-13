@@ -1,0 +1,47 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+	<item 
+	android:id="@+id/settingsMenuItem" 
+	android:title="Settings">
+	</item>
+	<item android:id="@+id/loginMenuItem" android:title="Log in">
+	</item>
+	    
+	<item
+        android:id="@+id/createDB"
+        android:icon="@drawable/icon01"
+        android:orderInCategory="50"
+        android:showAsAction="always"
+        android:title="createDB"/>
+	
+	<item
+        android:id="@+id/menuHarry"
+        android:orderInCategory="50"
+        android:showAsAction="always"
+        android:title="ADM"/>
+        
+	<item
+        android:id="@+id/menu0"
+        android:icon="@drawable/ic_action_search"
+        android:orderInCategory="50"
+        android:showAsAction="always"
+        android:title="searchItem"/>
+	<item
+        android:id="@+id/menu1"
+        android:orderInCategory="50"
+        android:showAsAction="always"
+        android:title="All">
+		<menu >
+		    <item 
+		        android:id="@+id/menu11"
+		        android:title="Canada"/>
+		    <item 
+		        android:id="@+id/menu12"
+		        android:title="US"/>
+			<item 
+		        android:id="@+id/menu13"
+		        android:title="India"/>
+		</menu>
+   </item>
+
+</menu>

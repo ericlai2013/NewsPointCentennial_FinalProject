@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="logo_color">#13253e</color>
+    <color name="team_color">#F0F0F0</color>
+    <color name="team_bkgrd">#080B74</color>
+    <color name="lightskyblue">#87cefa</color>
+    <color name="lightgreen">#90ee90</color>
+    <color name="lightshit">#6c4025</color>
+    <color name="lightgood">#556b2f</color>
+    <color name="lightcrap">#d7e2ea</color>
+    <color name="bkgrd">#180434</color>
+    <color name="bottombox">#ffed0f</color>
+    <color name="bottombox1">#fff031</color>
+    <color name="bottombox2">#ffed04</color>
+</resources>
